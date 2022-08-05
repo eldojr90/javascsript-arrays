@@ -1,0 +1,17 @@
+for, for in, for of
+
+funções de iteração
+forEach
+map
+filter
+reduce
+
+
+
+#01 Arrays - Como consolar um array (Objetos) - Introdução
+#02 Arrays - Como consolar um array (Objetos) - for|in|of
+#03 Arrays - Como consolar um array (Objetos) - forEach
+#04 Arrays - Como consolar um array (Objetos) - map
+#05 Arrays - Como consolar um array (Objetos) - filter
+#06 Arrays - Como consolar um array (Objetos) - reduce
+
