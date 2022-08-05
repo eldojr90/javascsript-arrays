@@ -16,6 +16,8 @@ const carros = [
   },
 ];
 
-carros.forEach(function (carro) {
+carros.forEach(function(carro, index, array) {
+  console.log(array[index]);
+  //or
   console.log(carro);
-})
+});
