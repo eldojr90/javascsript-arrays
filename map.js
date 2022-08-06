@@ -18,8 +18,3 @@ const carros = [
     preco: 35000,
   },
 ];
-
-carros.forEach(function (carro) {
-  const { nome, marca, preco} = carro;
-  console.log(`O ${nome} da marca ${marca} custa R$ ${preco}`);
-});
